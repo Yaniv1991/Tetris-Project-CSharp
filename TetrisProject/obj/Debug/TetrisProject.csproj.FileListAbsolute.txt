@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Tetris\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\user\source\repos\Tetris\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\user\source\repos\Tetris\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\user\source\repos\Tetris\ConsoleApp5\obj\Debug\TetrisProject.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Tetris\ConsoleApp5\obj\Debug\TetrisProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tetris\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\user\source\repos\Tetris\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\user\Dropbox\Tiltan homework\פרויקט סופי\Yaniv and Hanna\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\user\Dropbox\Tiltan homework\פרויקט סופי\Yaniv and Hanna\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\user\Dropbox\Tiltan homework\פרויקט סופי\Yaniv and Hanna\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\user\Dropbox\Tiltan homework\פרויקט סופי\Yaniv and Hanna\ConsoleApp5\obj\Debug\TetrisProject.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\Tiltan homework\פרויקט סופי\Yaniv and Hanna\ConsoleApp5\obj\Debug\TetrisProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Dropbox\Tiltan homework\פרויקט סופי\Yaniv and Hanna\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\user\Dropbox\Tiltan homework\פרויקט סופי\Yaniv and Hanna\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

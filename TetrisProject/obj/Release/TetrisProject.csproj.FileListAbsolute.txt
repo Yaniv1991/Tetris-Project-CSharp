@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Tetris\ConsoleApp5\bin\Release\ConsoleApp5.exe.config
+C:\Users\user\source\repos\Tetris\ConsoleApp5\bin\Release\ConsoleApp5.exe
+C:\Users\user\source\repos\Tetris\ConsoleApp5\bin\Release\ConsoleApp5.pdb
+C:\Users\user\source\repos\Tetris\ConsoleApp5\obj\Release\TetrisProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tetris\ConsoleApp5\obj\Release\ConsoleApp5.exe
+C:\Users\user\source\repos\Tetris\ConsoleApp5\obj\Release\ConsoleApp5.pdb
